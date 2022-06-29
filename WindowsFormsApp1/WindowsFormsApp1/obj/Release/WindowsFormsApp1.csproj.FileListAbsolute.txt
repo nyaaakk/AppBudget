@@ -1,0 +1,28 @@
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Database1.mdf
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\Database1_log.ldf
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmAjouterDonneeCharge.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmAjouterDonneeProduit.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmGererLibCharge.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmGererLibProduit.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmTableau.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+D:\Users\ryann\Desktop\Database1.mdf
+D:\Users\ryann\Desktop\Database1_log.ldf
+D:\Users\ryann\Desktop\WindowsFormsApp1.exe.config
+D:\Users\ryann\Desktop\WindowsFormsApp1.exe
+D:\Users\ryann\Desktop\WindowsFormsApp1.pdb
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmGraphCharge.resources
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.frmGraphProduit.resources
+D:\Users\ryann\Desktop\WindowsFormsApp1.exe.manifest
+D:\Users\ryann\Desktop\WindowsFormsApp1.application
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+D:\Users\ryann\Documents\Visual Studio 2022\MyApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
